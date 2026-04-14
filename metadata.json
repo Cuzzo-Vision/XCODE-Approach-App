@@ -1,0 +1,7 @@
+{
+  "name": "Approach",
+  "description": "A social connection app focusing on real-world introductions and approachability status.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
